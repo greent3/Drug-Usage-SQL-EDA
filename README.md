@@ -1,13 +1,13 @@
 # Exploring Data About Legal and Illegal Drug Usage
 
-## With our SQL queries, we're able to answer questions like:
-  ### Do graduate degree holders use caffeine more often than less educated people? (Hint: Yes they do!)
-  ### Which illegal drugs are becoming more popular over the decades?
-  ### Are less educated people more likely to lie about (overreport) drug usage?
+### With our SQL queries, we're able to answer questions like:
+  #### Do graduate degree holders use caffeine more often than less educated people? (Hint: Yes they do!)
+  #### Which illegal drugs are becoming more popular over the decades?
+  #### Are less educated people more likely to lie about (overreport) drug usage?
 
-## It's worth noting that:
-  ### This data would be better served with heatmaps to check for correlations between values like NScore, Alcohol usage, etc. 
-  ### If we we decided not to include overreporters in our analysis, it'd be best to remove overreporting surveyee data from our dataset prior to do analysis.
+### It's worth noting that:
+  #### This data would be better served with heatmaps to check for correlations between values like NScore, Alcohol usage, etc. 
+  #### If we we decided not to include overreporters in our analysis, it'd be best to remove overreporting surveyee data from our dataset prior to do analysis.
  
 Disclaimer: Like most datasets, the data is biased in many ways. (Ex: There are less than twenty 65+y/o surveyees, most of the surveyees are white and from the UK, etc. ). 
 
